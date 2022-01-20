@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NewPlayerInput.unity
+    guid: acbf6eb282d24ac44889c7fc9e340800
+  - enabled: 1
+    path: Assets/Scenes/GameMode.unity
+    guid: be68cdedc73dc414880708ada0204e14
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: cc46cc951dae7d241a1cb0c947e9e130
+  - enabled: 1
+    path: Assets/Scenes/Level1Dialogue.unity
+    guid: a97026a968e7bc049aee6fe80a061e7f
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 0b7f73c6256037940af345fd260a7c0f
+  - enabled: 1
+    path: Assets/Scenes/Level2Dialogue.unity
+    guid: d38dccdcba45fcb46a91b3afd263fe0a
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 4795f98c0348c35439a55c7ef6b7284a
+  - enabled: 1
+    path: Assets/Scenes/Level3Dialogue.unity
+    guid: 4c1047da1993e494e959249127a155df
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 5c72e79fe99361242af475bffb0abd1e
+  - enabled: 1
+    path: Assets/Scenes/Level4Dialogue.unity
+    guid: 8e94282c7fdbd174d86fa1dd3082df1c
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 13d1fd8881c0f564382f40c6893fd55e
+  - enabled: 1
+    path: Assets/Scenes/Level5Dialogue.unity
+    guid: 5f83f9be694eb4e49b1d86a4ddb793c4
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 497eba5c35890fe42902b6a3994d0adc
+  - enabled: 1
+    path: Assets/Scenes/Level6Dialogue.unity
+    guid: 1517abde6ee193c4785eadb032145ab9
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: d9eebc3bb60a2f04682661dd3df388db
+  - enabled: 1
+    path: Assets/Scenes/Level7Dialogue.unity
+    guid: fcb793f4614c8494bb6767cf39ebc95f
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 6fb7016f448058243a218e1ed71f7273
+  - enabled: 1
+    path: Assets/Scenes/Level8Dialogue.unity
+    guid: 3cf19608138726d4cbee777857bd4326
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 1396698b63030ed4c8db9dfcc3dd2ad4
+  - enabled: 1
+    path: Assets/Scenes/EndingDialogue.unity
+    guid: 0cadec4a83b721342bb0440c9feb1027
+  - enabled: 1
+    path: Assets/Scenes/StoryOver.unity
+    guid: d42c1d2a52ea50d4bb7fbd061177ea37
+  - enabled: 1
+    path: Assets/Scenes/TimeAttack.unity
+    guid: 87e0d6297540804498fa35503dfd0ab9
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer.unity
+    guid: 50eecaf07e20e694b85ef9db93dce7ab
+  m_configObjects: {}
